@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan.
 - 👀 I’m interested in learning to code to help me improve my life and help me provide for my family.
-- 🌱 I’m currently learning nothing, but i am here to reserch which path i wish to choose. I will update when I've chosen what I want to do. 
+- 🌱 I’m currently learning Java, and I am enjoying it a lot. Hopefully I'll manage to retain the information I learn. 
 - 💞️ I’m looking to collaborate on nothing, as I don't know what I'm doing.
 - 📫 How to reach me, e-mail.
 
